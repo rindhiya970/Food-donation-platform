@@ -52,7 +52,7 @@ The application supports **role-based dashboards** with restaurant and volunteer
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/bhanu-3333/food-donation-platform.git
+https://github.com/rindhiya970/Food-donation-platform.git
 
 2️⃣ Setup the Backend
 
